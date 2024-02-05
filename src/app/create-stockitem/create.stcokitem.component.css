@@ -1,0 +1,28 @@
+/* create.stockitem.component.css */
+.new-stock-form {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc; /* Add a border */
+    padding: 20px; /* Add some padding */
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .small-error {
+    color: red;
+    font-size: 12px;
+  }
+  
